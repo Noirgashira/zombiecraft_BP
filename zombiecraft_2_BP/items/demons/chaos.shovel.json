@@ -11,7 +11,7 @@
         "components": {
             "minecraft:icon": "zombie_chaos_axe",
             "minecraft:display_name": {
-                "value": "Choas Shovel"
+                "value": "Chaos Shovel"
             },
             "minecraft:use_modifiers": {
                 "movement_modifier": 0,

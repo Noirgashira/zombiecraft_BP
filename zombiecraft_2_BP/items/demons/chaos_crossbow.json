@@ -29,7 +29,7 @@
 			"minecraft:max_stack_size": 1,
 			"minecraft:should_despawn": false,
 			"minecraft:display_name": {
-				"value": "Choas Crossbow"
+				"value": "Chaos Crossbow"
 			},
 			"minecraft:icon": "zombie_bfc_crossbow",
 			"minecraft:projectile": {

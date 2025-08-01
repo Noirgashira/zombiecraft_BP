@@ -16,7 +16,7 @@
 			"minecraft:max_stack_size": 1,
 			"minecraft:should_despawn": false,
 			"minecraft:display_name": {
-				"value": "Choas Bow"
+				"value": "Chaos Bow"
 			},
 			"minecraft:use_animation": "bow",
 			"minecraft:icon": "zombie_chaos_bow",
