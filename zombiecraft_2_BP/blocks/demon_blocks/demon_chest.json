@@ -40,7 +40,7 @@
 			"minecraft:destructible_by_mining": {
 				"seconds_to_destroy": 8
 			},
-			"minecraft:display_name": "Choas_chest",
+			"minecraft:display_name": "Chaos_chest",
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 13
 			},
