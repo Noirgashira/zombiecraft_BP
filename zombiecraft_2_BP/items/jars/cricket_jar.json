@@ -14,7 +14,10 @@
 				"block": "zombie:cricket_jar_block"
 			},
 			"minecraft:allow_off_hand": true,
-			"minecraft:hover_text_color": "black"
+			"minecraft:hover_text_color": "black",
+			"minecraft:display_name": {
+				"value": "Cricket Jar"
+			}
 		}
 	}
 }
